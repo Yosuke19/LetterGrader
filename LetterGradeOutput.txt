@@ -1,0 +1,10 @@
+Letter grade for 8 students given in LetterGradeInput.txt file is:
+
+Anne Latner:                  B
+Ariana B. Smith:              A
+Bill Gates:                   F
+Emily Gonzales:               B
+Jennifer L:                   B
+Maria Jones:                  D
+Scobar Morris:                C
+Thui Bhu:                     A
